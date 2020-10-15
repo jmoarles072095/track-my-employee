@@ -12,6 +12,10 @@ This command application lets user in this case managers or supervisors add, upd
 * [Contributors](#contributors)
 * [Questions](#questions)
 
+## Video
+
+https://drive.google.com/file/d/1D1UQk3uiOl4LS_BHntCO7xEqcC5jJuGU/view
+
 ## Installation
 
 VS code installed in computer,have inquirer and mysql installed as dependencies 
