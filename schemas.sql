@@ -67,7 +67,7 @@ VALUE ("Lawyer", 190000, 4);
 
 -- employee seeds-------
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUE ("Benito", "Juarez", null, 1);
+VALUE ("Benito", "Juarez", null, 4);
 
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Adan", "Sanchez", null, 2);
@@ -83,7 +83,6 @@ VALUE ("Vicente", "Fernandez", 4, 5);
 
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Adam", "Driver", 1, 6);
-
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Ben", "Jerry", 2, 7);
 
