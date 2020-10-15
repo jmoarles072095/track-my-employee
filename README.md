@@ -2,7 +2,7 @@
     
     
 ## Description
-This command application lets user in this case managers or supervisors add, update employees and roles of their employee, they could also add new departemts. With this application they can have all thie information organized and consised since this app gives you the choice of sorting personnel by role or deparment.
+This command application lets user in this case managers or supervisors add, update employees and roles of their employees, they could also add new departemts. With this application they can have all their information organized and accesible since this app gives you the choice of sorting personnel by role or deparment.
  
 ## Table of Contents
 * [Installation](#installation)
